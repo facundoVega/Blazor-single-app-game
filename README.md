@@ -1,4 +1,5 @@
 # App game with Blazor.
 
 ***
-![./](./Screenshot.PNG)
+![Blazor-single-app-game
+](./Screenshot.PNG)
