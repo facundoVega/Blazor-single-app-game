@@ -2,4 +2,4 @@
 
 ***
 ![Blazor-single-app-game
-](./Screenshot.PNG)
+](Screenshot.PNG)
